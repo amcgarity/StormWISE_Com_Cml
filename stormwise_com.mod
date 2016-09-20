@@ -1,6 +1,5 @@
-# StormWISE_TMDL model Cost minimization with multiple benefits as constraints 
-# In this model file, parameters s and u are calculated outside of AMPL, such
-# as by the stormwise_tmdl.py program.
+# StormWISE_Com model Community of Arts and Humanities StormWISE model
+# In this model file, parameters s and u are calculated outside of AMPL
 
 set I;	# drainage zones
 set J; 	# land-use categories
