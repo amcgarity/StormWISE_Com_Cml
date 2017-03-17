@@ -1,0 +1,92 @@
+x:
+    1_headwaters:
+        10_unknown:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:     0.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:     0.0000
+        1_residential:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:  1120.0000
+            4_green_roof:     0.0000
+            5_planter:  2067.6772
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:  2059.3228
+        2_commercial:
+            1_pond:   125.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:     0.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:   562.5000
+        3_industrial:
+            1_pond:    65.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:     0.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:   292.5000
+        4_civic:
+            1_pond:   232.5000
+            2_rain_garden:     0.0000
+            3_tree_trench:     0.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:   697.5000
+        5_transportation:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:  2028.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:     0.0000
+        6_recreation:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:    40.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:     0.0000
+        7_park:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:    60.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:     0.0000
+        8_cemetary:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:    40.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:     0.0000
+        9_vacant:
+            1_pond:     0.0000
+            2_rain_garden:     0.0000
+            3_tree_trench:   610.0000
+            4_green_roof:     0.0000
+            5_planter:     0.0000
+            6_impervious_removal:     0.0000
+            7_permeable_pavement:     0.0000
+            8_cistern:     0.0000
