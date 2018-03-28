@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+'''
 Created on Sept. 20, 2016
 
 @author: arthur, fngwei
@@ -7,7 +7,7 @@ Created on Sept. 20, 2016
 provide command line input and output for the StormWISE_GrnAcr_cml model
 Mainly to show the output by grouping investment with geographical zone, land use,...
 User has to input the YAML file name (the result of optimization model)
-
+'''
 import yaml
 import os
 from copy import deepcopy
